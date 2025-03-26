@@ -1,0 +1,11 @@
+# 内容：漏网之鱼
+# 域名关键字匹配
+# DOMAIN-KEYWORD,openai
+
+# 域名后缀匹配
+
+DOMAIN-SUFFIX,antpool.com
+DOMAIN-SUFFIX,viabtc.com
+DOMAIN-SUFFIX,zerotier.com
+DOMAIN-SUFFIX,index.docker.io
+DOMAIN-SUFFIX,aktv.top
