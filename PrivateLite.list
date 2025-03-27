@@ -1,27 +1,10 @@
-# ´úÀí²¹³äÁĞ±í
+# ä»£ç†è¡¥å……åˆ—è¡¨
 
-# ÓòÃûºó×ºÆ¥Åä
-DOMAIN-SUFFIX,qichiyu.com
+# åŸŸååç¼€åŒ¹é…
+#DOMAIN-SUFFIX,qichiyu.com
 
-# ÓòÃû¹Ø¼ü×ÖÆ¥Åä
-DOMAIN-KEYWORD,1e100
+# åŸŸåå…³é”®å­—åŒ¹é…
+DOMAIN-KEYWORD,lastwar
 
-# ¹úÍâDNS
-DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
-DOMAIN-SUFFIX,dot.sb
-DOMAIN-SUFFIX,dns.umbrella.com
-DOMAIN-SUFFIX,dns.quad9.net
-DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,doh.dns.sb
-DOMAIN-SUFFIX,doh.opendns.com
-DOMAIN-SUFFIX,dns.quad9.net
-DOMAIN-SUFFIX,hk-hkg.doh.sb
-IP-CIDR,8.8.8.8/32,no-resolve
-IP-CIDR,8.8.4.4/32,no-resolve
-IP-CIDR,1.1.1.1/32,no-resolve
-IP-CIDR,1.0.0.1/32,no-resolve
-IP-CIDR,185.222.222.222/32,no-resolve
-IP-CIDR,208.67.222.222/32,no-resolve
-IP-CIDR,208.67.220.220/32,no-resolve
+# å›½å¤–DNS
+#DOMAIN-SUFFIX,dns.google
