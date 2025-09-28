@@ -2,15 +2,15 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,jaaz.asia
-#DOMAIN-SUFFIX,qichiyu.com
-#DOMAIN-SUFFIX,antpool.com
-#DOMAIN-SUFFIX,viabtc.com
-#DOMAIN-SUFFIX,zerotier.com
-#DOMAIN-SUFFIX,index.docker.io
-#DOMAIN-SUFFIX,aktv.top
+DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,antpool.com
+DOMAIN-SUFFIX,viabtc.com
+DOMAIN-SUFFIX,zerotier.com
+DOMAIN-SUFFIX,index.docker.io
+DOMAIN-SUFFIX,aktv.top
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,lastwar
 
 # 国外DNS
-#DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,dns.google
