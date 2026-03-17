@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,aktv.top
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,lastwar
+DOMAIN-KEYWORD,onedrive
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
